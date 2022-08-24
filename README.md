@@ -2,7 +2,7 @@
 
 ![Version: 6.33.2](https://img.shields.io/badge/Version-6.33.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 9.0.5](https://img.shields.io/badge/AppVersion-9.0.5-informational?style=flat-square)
 
-<details>
+<details markdown="1">
 <summary> The leading tool for querying and visualizing time series and metrics. </summary>
 
 **Homepage:** <https://grafana.net>
