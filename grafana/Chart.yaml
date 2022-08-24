@@ -5,7 +5,7 @@ home: https://grafana.net
 icon: https://raw.githubusercontent.com/grafana/grafana/master/public/img/logo_transparent_400x.png
 kubeVersion: ^1.8.0-0
 maintainers:
-- email: don.t@virtualitics.com
+- email: dont-virtualitics@virtualitics.net
   name: dont-virtualitics
 - email: zanhsieh@gmail.com
   name: zanhsieh
@@ -21,4 +21,4 @@ name: grafana
 sources:
 - https://github.com/grafana/grafana
 type: application
-version: 6.33.1
+version: 6.33.2
