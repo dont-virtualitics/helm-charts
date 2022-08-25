@@ -26,7 +26,7 @@ The leading tool for querying and visualizing time series and metrics.
 Kubernetes: `^1.8.0-0`
 
 <details markdown="1">
-<summary><h2 id="requirements">Values</h2></summary>
+<summary><h2 id="values">Values</h2></summary>
 ## Values
 
 | Key | Type | Default | Description |

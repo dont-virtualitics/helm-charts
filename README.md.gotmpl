@@ -14,9 +14,9 @@
 
 {{ template "chart.requirementsSection" . }}
 
-<details markdown="1">
-<summary><h2 id="requirements">Values</h2></summary>
+{{`<details markdown="1">`}}
+{{`<summary><h2 id="values">Values</h2></summary>`}}
 {{ template "chart.valuesSection" . }}
-</details>
+{{`</details>`}}
 
 {{ template "helm-docs.versionFooter" . }}
