@@ -4,8 +4,7 @@
 
 {{ template "chart.badgesSection" . }}
 
-<details markdown="1">
-<summary> {{ template "chart.description" . }} </summary>
+{{ template "chart.description" . }}
 
 {{ template "chart.homepageLine" . }}
 
@@ -15,7 +14,10 @@
 
 {{ template "chart.requirementsSection" . }}
 
+<details markdown="1">
+<summary>
 {{ template "chart.valuesSection" . }}
+</summary>
+</details>
 
 {{ template "helm-docs.versionFooter" . }}
-</details>
