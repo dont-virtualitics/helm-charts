@@ -1,4 +1,6 @@
 title: [helm-charts/grafana]
 description: [https://dont-virtualitics.github.io/helm-charts/]
 show_downloads: [false]
-theme: jekyll-theme-midnight
+remote_theme: pages-themes/leap-day@v0.2.0
+plugins:
+- jekyll-remote-theme
