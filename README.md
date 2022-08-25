@@ -26,7 +26,7 @@ The leading tool for querying and visualizing time series and metrics.
 Kubernetes: `^1.8.0-0`
 
 <details markdown="1">
-<summary>
+<summary> Values </summary>
 ## Values
 
 | Key | Type | Default | Description |
@@ -250,7 +250,6 @@ Kubernetes: `^1.8.0-0`
 | testFramework.tag | string | `"v1.4.1"` |  |
 | tolerations | list | `[]` |  |
 | useStatefulSet | bool | `false` |  |
-</summary>
 </details>
 
 ----------------------------------------------
