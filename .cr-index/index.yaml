@@ -3,9 +3,9 @@ entries:
   grafana:
   - apiVersion: v2
     appVersion: 9.0.5
-    created: "2022-08-24T12:21:50.396061314-06:00"
+    created: "2022-09-01T17:00:07.874428144-06:00"
     description: The leading tool for querying and visualizing time series and metrics.
-    digest: 5f85e8d138dfbcfaf4896b1afbf424a349ee47062f5a981ce9446088fe5517db
+    digest: 56460b9501fa4d18e8af808210e44243a98a766bee97b9f9f80650dc1c998fcf
     home: https://grafana.net
     icon: https://raw.githubusercontent.com/grafana/grafana/master/public/img/logo_transparent_400x.png
     kubeVersion: ^1.8.0-0
@@ -31,9 +31,9 @@ entries:
     version: 6.33.2
   - apiVersion: v2
     appVersion: 9.0.5
-    created: "2022-08-24T11:25:37.374891201-06:00"
+    created: "2022-09-01T17:00:07.548901582-06:00"
     description: The leading tool for querying and visualizing time series and metrics.
-    digest: 6c6fff29b9bbbfeaa6a3a531a0c739de91fd30fbe8deb66fcacbb6298a551519
+    digest: 01b225e730279a7b2537db6a3cc9b7e8488f87704a69bc5453cb2e210487560b
     home: https://grafana.net
     icon: https://raw.githubusercontent.com/grafana/grafana/master/public/img/logo_transparent_400x.png
     kubeVersion: ^1.8.0-0
@@ -59,9 +59,9 @@ entries:
     version: 6.33.1
   - apiVersion: v2
     appVersion: 9.0.5
-    created: "2022-08-24T09:59:05.200572985-06:00"
+    created: "2022-09-01T17:00:07.218748187-06:00"
     description: The leading tool for querying and visualizing time series and metrics.
-    digest: 9114d8bbe6856678d81019ae079448bb0ee02c20464979ca8b7447cade8760e6
+    digest: 7c17ff47555b0b18ef82b515dc51171c3d64578cfd396da04afd42e9d41b733c
     home: https://grafana.net
     icon: https://raw.githubusercontent.com/grafana/grafana/master/public/img/logo_transparent_400x.png
     kubeVersion: ^1.8.0-0
@@ -83,4 +83,4 @@ entries:
     urls:
     - https://github.com/dont-virtualitics/helm-charts/releases/download/grafana-6.33.0/grafana-6.33.0.tgz
     version: 6.33.0
-generated: "2022-08-24T12:21:50.39607237-06:00"
+generated: "2022-09-01T17:00:07.874469513-06:00"
