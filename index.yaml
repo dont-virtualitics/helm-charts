@@ -3,6 +3,34 @@ entries:
   grafana:
   - apiVersion: v2
     appVersion: 9.0.5
+    created: "2022-09-07T08:48:33.063515866-06:00"
+    description: The leading tool for querying and visualizing time series and metrics.
+    digest: 81dcf7e44ab38c60eb836c0e3d950bb3b50fc9d670e34441ab2e93bfa26a0278
+    home: https://grafana.net
+    icon: https://raw.githubusercontent.com/grafana/grafana/master/public/img/logo_transparent_400x.png
+    kubeVersion: ^1.8.0-0
+    maintainers:
+    - email: dont-virtualitics@virtualitics.net
+      name: dont-virtualitics
+    - email: zanhsieh@gmail.com
+      name: zanhsieh
+    - email: rluckie@cisco.com
+      name: rtluckie
+    - email: maor.friedman@redhat.com
+      name: maorfr
+    - email: miroslav.hadzhiev@gmail.com
+      name: Xtigyro
+    - email: mail@torstenwalter.de
+      name: torstenwalter
+    name: grafana
+    sources:
+    - https://github.com/grafana/grafana
+    type: application
+    urls:
+    - https://github.com/dont-virtualitics/helm-charts/releases/download/grafana-6.33.3/grafana-6.33.3.tgz
+    version: 6.33.3
+  - apiVersion: v2
+    appVersion: 9.0.5
     created: "2022-08-24T12:21:50.396061314-06:00"
     description: The leading tool for querying and visualizing time series and metrics.
     digest: 5f85e8d138dfbcfaf4896b1afbf424a349ee47062f5a981ce9446088fe5517db
@@ -83,4 +111,4 @@ entries:
     urls:
     - https://github.com/dont-virtualitics/helm-charts/releases/download/grafana-6.33.0/grafana-6.33.0.tgz
     version: 6.33.0
-generated: "2022-08-24T12:21:50.39607237-06:00"
+generated: "2022-09-07T08:48:33.063524842-06:00"
