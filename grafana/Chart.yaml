@@ -21,4 +21,4 @@ name: grafana
 sources:
 - https://github.com/grafana/grafana
 type: application
-version: 6.33.2
+version: 6.33.3
